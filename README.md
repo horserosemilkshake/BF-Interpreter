@@ -1,5 +1,5 @@
 # brainfuck-mini-interpreter
-The repository contains a compact implementation of what I called 'interpreter' for Brainfuck.
+The repository contains a compact implementation (25 lines of code) of what I called 'interpreter' for Brainfuck. Compressing the length of the code inevitably reduces the readability and maintainability. I made this project as a mere challenge, and I may make a more sophisticated and detailed version in the future.
 
 # How to use
 
