@@ -11,10 +11,21 @@ The repository contains a compact implementation of what I called 'interpreter' 
 ```bash
 cd Desktop/brainfuck-mini-interpreter
 ```
-From there, you could type the following if you want to compile it by yourself,
+  From there, you could type the following if you want to compile it by yourself,
 ```bash
 g++ interpreter.cpp
 ```
 ```bash
 ./a.out
 ```
+  Or you can just run the object file I provided by typing,
+```bash
+./a.out
+```
+5.  The output should be:
+
+```bash
+Hi. This is a Brainfuck "Interpreter" made without having any purpose or practicality.
+```
+  
+  You can always change the output by modifying the brainfuck code in ```test.bf```.
