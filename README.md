@@ -18,7 +18,7 @@ g++ interpreter.cpp
 ```bash
 ./a.out
 ```
-  Or you can just run the object file I provided by typing,
+  Or you can just "run" the object file (well actually, you can't run an object file, this command is just creating linkings) I provided by typing,
 ```bash
 ./a.out
 ```
