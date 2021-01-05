@@ -25,7 +25,7 @@ g++ interpreter.cpp
 5.  The output should be:
 
 ```bash
-Hi. This is a Brainfuck "Interpreter" made without having any purpose or practicality.
+This interpreter is useless.
 ```
   
   You can always change the output by modifying the brainfuck code in ```test.bf```.
