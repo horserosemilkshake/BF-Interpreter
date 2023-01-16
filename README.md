@@ -28,4 +28,4 @@ g++ interpreter.cpp
 This interpreter is useless.
 ```
   
-  You can always change the output by modifying the brainfuck code in ```test.bf```.
+  You can always change the output by modifying the BF code in ```test.bf```.
